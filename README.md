@@ -13,6 +13,3 @@ To run the server use the following command:
 ```shell
 npm start
 ```
-
-> By default the port used is 3000, but feel free to change it as you please.
-
